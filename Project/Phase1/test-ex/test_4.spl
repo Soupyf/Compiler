@@ -1,0 +1,10 @@
+void test_4(int a,int b)
+{
+    const int max = a >= b ? a : b;
+    const int idx = 0;
+    int sum;
+    while (idx < max)
+    {
+        sum += idx;
+    }
+}

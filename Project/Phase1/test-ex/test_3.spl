@@ -1,0 +1,18 @@
+int test_3(int a, int b)
+{
+    c = 'c';
+    // int even = 0;
+    if (a > b)
+    {
+        even = even + 1;
+        odd += 1;
+        id = id % 2;
+        c__ /= 666;
+        return a;
+    }
+    else
+    {
+        compiler *= 520;
+        return b;
+    }
+}
